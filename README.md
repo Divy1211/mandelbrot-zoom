@@ -9,3 +9,5 @@
 # How the program works
 
 1. This program implements the Mandelbrot zoom. It uses the same mathematical formula explained in depth [here](https://github.com/Divy1211/Mandelbrot).
+2. The `aa` variable in the program controls the anti aliasing level. Note that increasing the canvas size or AA levels will significantly increase rendering times!
+3. ![Zoom GIF](https://imgur.com/a/J0gMK83)
